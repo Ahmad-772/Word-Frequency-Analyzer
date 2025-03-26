@@ -1,4 +1,5 @@
 Word Frequency Analyzer - C++ Data Structures Project
+
 📌 Overview
 This C++ program analyzes text input (either from the console or a file) and calculates word frequencies using efficient data structures. It provides various statistical insights, including word rankings, global frequencies, and search functionality.
 
